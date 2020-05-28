@@ -5,6 +5,7 @@ public class MainClass08 {
 		System.out.println("Git test");
 		System.out.println("Hi");
 		int i=0;
+		double f=4.3;
 			
 	}
 }
